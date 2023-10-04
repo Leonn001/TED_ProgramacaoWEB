@@ -12,7 +12,7 @@
 <img src="/imgs/selecionado.png">
 
 <h1>5. Prontinho, aqui está seu pedido descrito, aproveite!</h1>
-<img src="/imgs/resultado.png">
+<img src="/imgs/RESULTADONOVO.png">
 
 
 
